@@ -4,7 +4,7 @@ import Message from './Message'
 
 function Chat() {
   return (
-    <div className='card mt-2'>
+    <div className='card mt-2' style={{height:'80vh'}}>
          <div className="card-header">
             chat
          </div>
